@@ -6,3 +6,5 @@ Uma coleção de projetos que criei nas aulas. Nada próprio, mas com pequenas a
 - controle-series
   - LARAVEL PARTE 1: PRODUTIVIDADE NO DESENVOLVIMENTO WEB
   - LARAVEL PARTE 2: TRABALHANDO COM AUTENTICAÇÃO, RELACIONAMENTOS E TESTES
+- buscador-cursos
+  - PHP COMPOSER: DEPENDÊNCIAS, AUTOLOAD E PUBLICAÇÃO
