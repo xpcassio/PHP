@@ -6,6 +6,11 @@ Iniciar arquivo composer
 php composer.phar init
 ```
 
+Caso exista o arquivo composer.lock/json e queira iniciar
+```
+php composer.phar install
+```
+
 Rodando o que tá dendo de bin
 ```
 vendor/bin/phan
